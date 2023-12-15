@@ -1,0 +1,22 @@
+[
+    {
+        "key": "tw",
+        "value": "中文"
+    },
+    {
+        "key": "en",
+        "value": "英文"
+    },
+    {
+        "key": "ch",
+        "value": "台語"
+    },
+    {
+        "key": "indigenous",
+        "value": "原住民語"
+    },
+    {
+        "key": "other",
+        "value": "其它"
+    }
+]

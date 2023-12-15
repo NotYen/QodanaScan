@@ -1,0 +1,14 @@
+[
+    {
+        "key": "call-name",
+        "text": "1. 呼喚孩子名字"
+    },
+    {
+        "key": "invite-game",
+        "text": "2. 邀請加入遊戲"
+    },
+    {
+        "key": "ask-interest",
+        "text": "3. 詢問興趣"
+    }
+]

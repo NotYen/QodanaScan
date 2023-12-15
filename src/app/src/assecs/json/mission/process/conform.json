@@ -1,0 +1,18 @@
+[
+    {
+        "key": "conform-fly",
+        "text": "圖卡對應：天空飛"
+    },
+    {
+        "key": "conform-sit",
+        "text": "圖卡對應：可坐下"
+    },
+    {
+        "key": "conform-draw",
+        "text": "圖卡對應：可畫圖"
+    },
+    {
+        "key": "conform-eat",
+        "text": "圖卡對應：可以吃"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "key": "nameface-eye",
+        "text": "玩偶五官：眼睛"
+    },
+    {
+        "key": "nameface-ear",
+        "text": "玩偶五官：耳朵"
+    },
+    {
+        "key": "nameface-nose",
+        "text": "玩偶五官：鼻子"
+    },
+    {
+        "key": "nameface-mouth",
+        "text": "玩偶五官：嘴巴"
+    },
+    {
+        "key": "nameface-hand",
+        "text": "玩偶五官：手"
+    },
+    {
+        "key": "nameface-foot",
+        "text": "玩偶五官：腳"
+    }
+]

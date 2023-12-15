@@ -1,0 +1,8 @@
+[
+  {
+      "name": "email",
+      "type": "email",
+      "placeholder": "請輸入信箱",
+      "required": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "username",
+        "type": "email",
+        "placeholder": "請輸入帳號",
+        "required": true
+    },
+    {
+        "name": "password",
+        "type": "password",
+        "placeholder": "請輸入密碼",
+        "required": true
+    }
+]

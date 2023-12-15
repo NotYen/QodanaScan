@@ -1,0 +1,74 @@
+[
+  {
+    "key": "no",
+    "value": "非原住民"
+  },
+  {
+    "key": "other",
+    "value": "其他"
+  },
+  {
+    "key": "amis",
+    "value": "阿美族"
+  },
+  {
+    "key": "atayal",
+    "value": "泰雅族"
+  },
+  {
+    "key": "paiwan",
+    "value": "排灣族"
+  },
+  {
+    "key": "bunun",
+    "value": "布農族"
+  },
+  {
+    "key": "puyuma",
+    "value": "卑南族"
+  },
+  {
+    "key": "rukai",
+    "value": "魯凱族"
+  },
+  {
+    "key": "tsou",
+    "value": "鄒族"
+  },
+  {
+    "key": "saisiyat",
+    "value": "賽夏族"
+  },
+  {
+    "key": "yami",
+    "value": "雅美族"
+  },
+  {
+    "key": "thao",
+    "value": "邵族"
+  },
+  {
+    "key": "kavalan",
+    "value": "噶瑪蘭族"
+  },
+  {
+    "key": "truku",
+    "value": "太魯閣族"
+  },
+  {
+    "key": "sakizaya",
+    "value": "撒奇萊雅族"
+  },
+  {
+    "key": "seediq",
+    "value": "賽德克族"
+  },
+  {
+    "key": "saaroa",
+    "value": "拉阿魯哇族"
+  },
+  {
+    "key": "kanakanavu",
+    "value": "卡那卡那富族"
+  }
+]

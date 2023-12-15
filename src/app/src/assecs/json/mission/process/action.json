@@ -1,0 +1,18 @@
+[
+    {
+        "key": "action-book",
+        "text": "動作圖卡：看書"
+    },
+    {
+        "key": "action-sleep",
+        "text": "動作圖卡：睡覺"
+    },
+    {
+        "key": "action-handwashing",
+        "text": "動作圖卡：洗手"
+    },
+    {
+        "key": "action-fly",
+        "text": "動作圖卡：飛"
+    }
+]

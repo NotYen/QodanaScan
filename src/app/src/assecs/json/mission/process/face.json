@@ -1,0 +1,15 @@
+[
+    {
+        "key": "face-nose",
+        "text": "指出五官部位：鼻子",
+        "demonstration": true
+    },
+    {
+        "key": "face-mouth",
+        "text": "指出五官部位：嘴巴"
+    },
+    {
+        "key": "face-hair",
+        "text": "指出五官部位：頭髮"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "key": "features-eye",
+        "text": "玩偶五官：眼睛",
+        "demonstration": true
+    },
+    {
+        "key": "features-abdomen",
+        "text": "玩偶五官：肚子"
+    },
+    {
+        "key": "features-foot",
+        "text": "玩偶五官：腳"
+    }
+]

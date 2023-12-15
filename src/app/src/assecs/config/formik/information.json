@@ -1,0 +1,114 @@
+[
+    {
+        "label": "孩子姓名",
+        "name": "姓名",
+        "required": true,
+        "colspan": 2
+    },
+    {
+        "label": "出生日期",
+        "name": "birthday",
+        "type": "date",
+        "required": true,
+        "colspan": 3
+    },
+    {
+        "label": "性別",
+        "name": "gender",
+        "type": "select",
+        "required": true,
+        "colspan": 1
+    },
+    {
+        "label": "出生週數",
+        "name": "weeks_of_birth",
+        "type": "number",
+        "required": true,
+        "colspan": 2
+    },
+    {
+        "label": "預產期 (若孩子出生週數< 37週再寫)",
+        "name": "dueDate",
+        "type": "date",
+        "colspan": 3
+    },
+    {
+        "label": "年齡",
+        "name": "age",
+        "type": "text",
+        "disabled": true,
+        "colspan": 1
+    },
+    {
+        "label": "家長姓名",
+        "name": "parent_name",
+        "required": true,
+        "colspan": 2
+    },
+    {
+        "label": "E-mail",
+        "name": "email",
+        "type": "email",
+        "required": true,
+        "colspan": 4
+    },
+    {
+        "label": "母親年齡",
+        "name": "mother_age",
+        "type": "number",
+        "required": true,
+        "colspan": 2
+    },
+    {
+        "label": "母親職業",
+        "name": "mother_occupation",
+        "type": "select",
+        "colspan": 2
+    },
+    {
+        "label": "母親教育程度",
+        "name": "mother_education",
+        "type": "select",
+        "colspan": 2
+    },
+    {
+        "label": "父親年齡",
+        "name": "father_age",
+        "type": "number",
+        "required": true,
+        "colspan": 2
+    },
+    {
+        "label": "父親職業",
+        "name": "father_occupation",
+        "type": "select",
+        "colspan": 2
+    },
+    {
+        "label": "父親教育程度",
+        "name": "father_education",
+        "type": "select",
+        "colspan": 2
+    },
+    {
+        "label": "家中主要使用語言",
+        "name": "primary_language",
+        "type": "select",
+        "required": true,
+        "colspan": 2
+    },
+    {
+        "label": "是否是原住民",
+        "name": "indigenous",
+        "type": "select",
+        "required": true,
+        "colspan": 2
+    },
+    {
+        "label": "族裔",
+        "name": "indigenous_type",
+        "type": "select",
+        "required": false,
+        "colspan": 2
+    }
+]
